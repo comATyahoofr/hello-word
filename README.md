@@ -12,4 +12,9 @@ mon premier github de ma premiere branche
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io&link=www.google.fr)
 
- Demo - [arduino 1](https://Techexplorations.com/guides/arduino/begin/lss1/) ![Website](https://img.shields.io/website?url=http%3A//Techexplorations.com/guides/arduino/begin/lss1/)
+ Cours 1 - [arduino 1](https://Techexplorations.com/guides/arduino/begin/lss1/)   ![Website](https://img.shields.io/website?url=http%3A//Techexplorations.com/guides/arduino/begin/lss1/)
+
+ Cours 2 - [arduino 2](https://Techexplorations.com/guides/arduino/begin/lss2/)   ![Website](https://img.shields.io/website?url=http%3A//Techexplorations.com/guides/arduino/begin/lss1/)
+
+
+voici un lien [Google](https://www.google.fr)
